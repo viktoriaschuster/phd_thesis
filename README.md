@@ -1,5 +1,5 @@
 # phd_thesis
 
-[View here](https://docs.google.com/viewer?url=https://github.com/viktoriaschuster/phd_thesis/blob/main/phd_thesis_viktoriaschuster.pdf)
+[View here](https://docs.google.com/viewer?url=https://drive.google.com/file/d/1uNNG9rSzFve3gl9XtdcE6wGnZNwpk4Hn/view?usp=drive_link)
 
 [link_to_raw_pdf](https://github.com/viktoriaschuster/phd_thesis/blob/main/phd_thesis_viktoriaschuster.pdf)
